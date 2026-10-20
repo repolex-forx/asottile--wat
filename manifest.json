@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "wat",
+  "versions": [
+    {
+      "commit": "5157ec1e646da2cace68cfeac506918aef815105",
+      "parsed_at": "2026-10-20T19:39:39.820382+00:00",
+      "filetree": "filetree/5157ec1e646da2cace68cfeac506918aef815105.nq.gz",
+      "blobs": [
+        "blob/0db2f5dafe71029b035066b46b0f46a148aa29ec.nq.gz",
+        "blob/d830fe3cd4588a85f4729f66568daf68156fd4a6.nq.gz",
+        "blob/f85ccddbb08914470a9d6ea4b2ab077650fcffbc.nq.gz",
+        "blob/fe39d0ecb85f1ea335271f154fde6bb88caa3b6c.nq.gz",
+        "blob/7032a03d038acce1614324acb9cb48f7e8fdd24e.nq.gz",
+        "blob/da7f5849045ada0f62d67f2a875e868b7b451909.nq.gz",
+        "blob/532e43f517936f38a113cbfe361563de2699a0d4.nq.gz",
+        "blob/2b2356710eb6d9b5b5ab44f2f9d655ed24a460f9.nq.gz",
+        "blob/e53b87e7ed23866a92edc36b3d52b301aba22476.nq.gz",
+        "blob/cbc0eb77e1dbcc517b764dd815d8b94099ab6eaa.nq.gz",
+        "blob/614b859443ff9ee3d9d6f816f1de71d3ef1f60f1.nq.gz",
+        "blob/67dde70fc97e1b611440cc4e43f2457d914e8927.nq.gz",
+        "blob/496f09aff2e176cf6171b2fcc4e4d2abe576fedb.nq.gz",
+        "blob/3be8e39a705ef9b279b88ab808ebc3d8063fde81.nq.gz",
+        "blob/f8fc383aca6be8f83603dd777f4a371a96433e9b.nq.gz",
+        "blob/0d20b6487c61e7d1bde93acf4a14b7a89083a16d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
