@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/wat/commit/5157ec1e646da2cace68cfeac506918aef815105",
       "git:hexsha": "5157ec1e646da2cace68cfeac506918aef815105",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
